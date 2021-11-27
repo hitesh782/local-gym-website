@@ -38,7 +38,7 @@ body{
 
 .navbar li{
     display: inline-block;
-    font-size: 22px;
+    font-size: 20px;
 }
 .navbar li a{
     text-decoration: none;
@@ -77,10 +77,10 @@ body{
     border-radius: 10px;
     text-align: center;
     display: block;
-    width: 508px;
+    width: 450px;
     padding: 1px;
     margin: 11px auto;
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .container button{
